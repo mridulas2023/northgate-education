@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90">
+<rect width="120" height="90" fill="#fff" rx="8"/>
+<text x="60" y="34" font-family="Georgia,serif" font-size="14" fill="#1a1a4e" text-anchor="middle" font-weight="700" font-style="italic">Sciences</text>
+<text x="60" y="54" font-family="Georgia,serif" font-size="22" fill="#c1001a" text-anchor="middle" font-weight="700" font-style="italic">Po</text>
+<line x1="25" y1="62" x2="95" y2="62" stroke="#c1001a" stroke-width="1.5"/>
+<text x="60" y="76" font-family="Arial,sans-serif" font-size="7" fill="#666" text-anchor="middle" letter-spacing="1">PARIS · Est. 1872</text>
+</svg>

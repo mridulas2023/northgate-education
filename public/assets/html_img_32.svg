@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90">
+<rect width="120" height="90" fill="#fff" rx="8"/>
+<text x="60" y="40" font-family="Arial Black,sans-serif" font-size="28" fill="#000" text-anchor="middle" font-weight="900" letter-spacing="2">ETH</text>
+<line x1="10" y1="48" x2="110" y2="48" stroke="#000" stroke-width="2.5"/>
+<text x="60" y="63" font-family="Arial,sans-serif" font-size="10.5" fill="#333" text-anchor="middle" font-weight="600" letter-spacing="1">ZÜRICH</text>
+<text x="60" y="78" font-family="Arial,sans-serif" font-size="7" fill="#999" text-anchor="middle" letter-spacing="0.5">Swiss Federal Institute</text>
+</svg>

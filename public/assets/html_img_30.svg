@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90">
+<rect width="120" height="90" fill="#003262" rx="8"/>
+<text x="60" y="32" font-family="Arial,sans-serif" font-size="9" fill="#FDB515" text-anchor="middle" letter-spacing="1.5" font-weight="700">UNIVERSITY OF</text>
+<text x="60" y="49" font-family="Arial,sans-serif" font-size="9" fill="#FDB515" text-anchor="middle" letter-spacing="1.5" font-weight="700">CALIFORNIA</text>
+<line x1="20" y1="55" x2="100" y2="55" stroke="#FDB515" stroke-width="1.5"/>
+<text x="60" y="68" font-family="Arial Black,sans-serif" font-size="14" fill="#FDB515" text-anchor="middle" font-weight="900" letter-spacing="1">BERKELEY</text>
+</svg>
